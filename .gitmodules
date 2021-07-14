@@ -1,0 +1,3 @@
+[submodule "cadCAD-Hacks"]
+	path = cadCAD-Hacks
+	url = https://github.com/cadCAD-edu/cadCAD-Hacks.git
