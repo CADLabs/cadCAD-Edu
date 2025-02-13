@@ -1,3 +1,6 @@
 [submodule "cadCAD-Hacks"]
 	path = cadCAD-Hacks
 	url = https://github.com/cadCAD-edu/cadCAD-Hacks.git
+[submodule "cadCAD-Complete-Foundations-Bootcamp-Content"]
+	path = cadCAD-Complete-Foundations-Bootcamp-Content
+	url = https://github.com/cadCAD-edu/cadCAD-Complete-Foundations-Bootcamp-Content
